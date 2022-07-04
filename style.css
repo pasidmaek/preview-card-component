@@ -29,12 +29,12 @@
     }
 
     .left-side {
-      width: 50%;
+      width: 60%;
     }
 
     .right-side {
-      width: 50%;
-      margin: 30px 40px;
+      width: 40%;
+      margin: 30px 30px;
       background-color: transparent;
     }
 
@@ -129,7 +129,7 @@
       background-color: hsl(158, 37%, 24%);
     }
 
-    .addToCart {
+    .btn-addToCart p {
       background-color: transparent;
       font-family: 'Montserrat', sans-serif;
       font-weight: 700;
@@ -137,10 +137,6 @@
       color: hsl(0, 0%, 100%);
       margin: 0;
 
-    }
-
-    .img-cart-contain {
-      background-color: transparent;
     }
 
     .img-cart {
@@ -269,14 +265,13 @@
       background-color: hsl(158, 37%, 24%);
     }
 
-    .addToCart {
+    .btn-addToCart p {
       background-color: transparent;
       font-family: 'Montserrat', sans-serif;
       font-weight: 700;
       font-size: 14px;
       color: hsl(0, 0%, 100%);
       margin: 0;
-
     }
 
     .img-cart-contain {
